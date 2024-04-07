@@ -5,9 +5,18 @@
 </picture>
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
+<summary>List of Completed project</summary>
+https://epochbrokers.com/
+https://lead.policylo.com
+ https://newsnation.in
+https://app.firstadvisorsinsurance.com/
+https://firstadvisorsinsurance.com/
+http://fincoresynergy.com/
+www.mymstars.com
+https://cyberchef.com/
+https://trendybharat.com/
+https://22bestdeals.com
+https://styleever.com
 
 </details>
 
