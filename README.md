@@ -7,10 +7,10 @@
 <details open>
   <summary>List of Completed Projects</summary>
   <ul>
-    <li><a href="https://epochbrokers.com/">Epoch Brokers</a>
+    <li>
+      <a href="https://epochbrokers.com/">Epoch Brokers</a>
       <ul>
-        <li>Project Type: Website, Admin, Customer Dashboard, Agent Dashboard, Corporate Dashboard </li>
-        
+        <li>Project Type: Website, Admin, Customer Dashboard, Agent Dashboard, Corporate Dashboard</li>
       </ul>
     </li>
     
