@@ -7,17 +7,14 @@
 <details open>
   <summary>List of Completed Projects</summary>
   <ul>
-    <li>
-      <a href="https://epochbrokers.com/">Epoch Brokers</a>
-      <ul> 
-        <li><b>Description:</b> Point of Sale (POS) agents can register directly through the website. Once registered, they can log in after their OTP is verified. Website provide training content for agents, which could be in the form of PDFs or videos. After completing the training, agents can take a test. Once they pass the test, they will automatically receive a welcome letter and a POS certificate. The system comprises two sections: Admin and Agent. The Admin section includes multiple roles to facilitate different responsibilities</li>
+    <li><a href="https://epochbrokers.com/">Epoch Brokers</a>
+      <ul>
+        <li>Project Type: Website, Admin, Customer Dashboard, Agent Dashboard, Corporate Dashboard </li>
+        
       </ul>
     </li>
-    <li><a href="https://lead.policylo.com">Lead Policylo</a>
-    <ul> 
-        <li><b>Description:</b> The Policylo website is developed for corporate insurance, offering services to organizations that enable them to review, compare quotes, and make online purchases.</li>
-      </ul> 
-    </li>
+    
+    <li><a href="https://lead.policylo.com">Lead Policylo</a></li>
     <li><a href="https://newsnation.in">News Nation</a></li>
     <li><a href="https://app.firstadvisorsinsurance.com/">First Advisors Insurance (App)</a></li>
     <li><a href="https://firstadvisorsinsurance.com/">First Advisors Insurance</a></li>
