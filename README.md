@@ -4,7 +4,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://avatars.githubusercontent.com/u/52853590?s=96&v=4">
 </picture>
 
-<details>
+<details open>
 <summary>List of Completed project</summary>
 https://epochbrokers.com/
 https://lead.policylo.com
