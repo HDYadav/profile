@@ -10,7 +10,7 @@
     <li>
       <a href="https://epochbrokers.com/">Epoch Brokers</a>
       <ul>
-        <li>Project Type: Website, Admin, Customer Dashboard, Agent Dashboard, Corporate Dashboard</li>
+        <li><b>Project Type:</b>  Website, Admin, Customer Dashboard, Agent Dashboard, Corporate Dashboard</li>
         <li>Description: The Policylo website is developed for corporate insurance, offering services to organizations that enable them to review, compare quotes, and make online purchases.</li>
       </ul>
     </li>
