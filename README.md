@@ -7,7 +7,13 @@
 <details open>
   <summary>List of Completed Projects</summary>
   <ul>
-    <li><a href="https://epochbrokers.com/">Epoch Brokers</a></li>
+    <li><a href="https://epochbrokers.com/">Epoch Brokers</a>
+      <ul>
+        <li>Project Type: Website, Admin, Customer Dashboard, Agent Dashboard, Corporate Dashboard </li>
+        
+      </ul>
+    </li>
+    
     <li><a href="https://lead.policylo.com">Lead Policylo</a></li>
     <li><a href="https://newsnation.in">News Nation</a></li>
     <li><a href="https://app.firstadvisorsinsurance.com/">First Advisors Insurance (App)</a></li>
