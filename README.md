@@ -14,11 +14,9 @@
       </ul>
     </li>
     <li><a href="https://lead.policylo.com">Lead Policylo</a>
-    <ul>
-        <li><b>Project Type:</b>  Website, Admin, Customer Dashboard, Agent Dashboard, Corporate Dashboard</li>
+    <ul> 
         <li><b>Description:</b> The Policylo website is developed for corporate insurance, offering services to organizations that enable them to review, compare quotes, and make online purchases.</li>
-      </ul>
-      
+      </ul> 
     </li>
     <li><a href="https://newsnation.in">News Nation</a></li>
     <li><a href="https://app.firstadvisorsinsurance.com/">First Advisors Insurance (App)</a></li>
